@@ -13,7 +13,7 @@ const AccountNavigator = () => (
     <Stack.Screen
       name="MyListings"
       component={MyListingsScreen}
-      options={{ title: "My Listings" }}
+      options={{ title: "My Ads" }}
     />
   </Stack.Navigator>
 );

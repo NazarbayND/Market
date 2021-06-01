@@ -9,7 +9,7 @@ import Screen from "../components/Screen";
 
 const menuItems = [
   {
-    title: "My Listings",
+    title: "My Ads",
     icon: {
       name: "format-list-bulleted",
       backgroundColor: colors.primary,
